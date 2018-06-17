@@ -1,2 +1,2 @@
-# shellScipting
+# shellScripting
 Shell Scripts
